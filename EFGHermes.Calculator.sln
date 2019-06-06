@@ -12,9 +12,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFGHermes.Calculator.Client
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFGHermes.Calculator.SelfHost", "EFGHermes.Calculator.SelfHost\EFGHermes.Calculator.SelfHost.csproj", "{18F309E3-FF6B-4DCB-A017-DB9F2B4EF7D2}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TSQLScript", "TSQLScript", "{BA76E85C-51D3-43B1-8AB6-A8B579BD17FA}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TSQLScript", "TSQLScript", "{9AC90B2C-7008-41A5-904A-BC02629053B2}"
 	ProjectSection(SolutionItems) = preProject
-		..\..\..\Desktop\EFGHermes.Calculator.TSQLScript.sql = ..\..\..\Desktop\EFGHermes.Calculator.TSQLScript.sql
+		EFGHermes.Calculator.TSQLScript.sql = EFGHermes.Calculator.TSQLScript.sql
 	EndProjectSection
 EndProject
 Global
