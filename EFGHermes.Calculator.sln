@@ -14,6 +14,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFGHermes.Calculator.SelfHo
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TSQLScript", "TSQLScript", "{9AC90B2C-7008-41A5-904A-BC02629053B2}"
 	ProjectSection(SolutionItems) = preProject
+		..\..\..\Desktop\DatabaseSchema.png = ..\..\..\Desktop\DatabaseSchema.png
 		EFGHermes.Calculator.TSQLScript.sql = EFGHermes.Calculator.TSQLScript.sql
 	EndProjectSection
 EndProject
